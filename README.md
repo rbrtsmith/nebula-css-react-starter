@@ -6,9 +6,9 @@
 3. `npm start` OR `yarn start` to start the Webpack Development Server
 4. `npm run build` OR `yarn build` for production build
 
-**Note** This is a very minimal starter pack, you are encourage to add in your
-own unit testing framework, if you are pulling in images or SVGs you
-will require the appropriate Webpack-loaders.
+**Note** This is a very minimal starter pack, you are encouraged to add in your
+own preferred unit testing framework. If you are importing images or SVGs you
+will require the appropriate Webpack-loaders, the same goes for webfonts etc.
 
 As is Babel and Autoprefixer are configured to support the following browser environments:
 ```

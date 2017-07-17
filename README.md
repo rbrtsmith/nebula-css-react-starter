@@ -10,7 +10,7 @@
 own unit testing framework, if you are pulling in images or SVGs you
 will require the appropriate Webpack-loaders.
 
-As is Babel and Autoprefixer are configured to support the following environments:
+As is Babel and Autoprefixer are configured to support the following browser environments:
 ```
 "last 2 versions", "ie 9-11"
 ```

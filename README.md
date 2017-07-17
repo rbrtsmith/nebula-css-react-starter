@@ -1,5 +1,9 @@
 # Nebula-CSS & React + ES6 + Webpack Starter Project
 
+* Starting point for a ReactJS project that consumes [Nebula-css](https://github.com/rbrtsmith/nebula-css)
+* Minimal & easy to extend / customise to your own needs.
+* Uses Babe-env preset and autoprefixer to ensure targeted browsers are supported.
+
 ## Get Started
 1. fork / clone this repository
 2. `npm install` OR `yarn`

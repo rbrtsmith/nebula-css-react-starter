@@ -2,7 +2,7 @@ import React from 'react'
 import { render } from 'react-dom'
 
 import App from './App'
-import './scss/main.scss'
+import './scss/main'
 
 const appTitle = 'Welcome to your React + Nebula project'
 

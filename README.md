@@ -7,7 +7,7 @@ the default for this project is
   ```
   "last 2 versions", "ie 9-11"
   ```
-These can be re-configured in your `.babelrc` and `webpack-config.babel` files.
+  These can be re-configured in your `.babelrc` and `webpack-config.babel` files.
 
 ## Get Started
 1. fork / clone this repository

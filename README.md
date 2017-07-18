@@ -4,9 +4,9 @@
 * Minimal & easy to extend / customise to your own needs.
 * Uses [babel-env](https://github.com/babel/babel-preset-env) preset and [Autoprefixer](https://github.com/postcss/autoprefixer) to ensure targeted browsers are supported.
 the default for this project is
-```
-"last 2 versions", "ie 9-11"
-```
+  ```
+  "last 2 versions", "ie 9-11"
+  ```
 These can be re-configured in your `.babelrc` and `webpack-config.babel` files.
 
 ## Get Started

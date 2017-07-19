@@ -17,7 +17,7 @@
   "author": "Robert Smith",
   "license": "MIT",
   "dependencies": {
-    "nebula-css": "^2.3.1",
+    "nebula-css": "^2.4.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   },

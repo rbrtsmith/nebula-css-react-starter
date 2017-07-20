@@ -2677,9 +2677,9 @@ nan@^2.3.0, nan@^2.3.2:
   version "2.6.2"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.6.2.tgz#e4ff34e6c95fdfb5aecc08de6596f43605a7db45"
 
-nebula-css@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/nebula-css/-/nebula-css-2.3.1.tgz#c2d7e2b26d11681e3293c91aa8fb755fd12bb741"
+nebula-css@^2.4.1:
+  version "2.4.1"
+  resolved "https://registry.yarnpkg.com/nebula-css/-/nebula-css-2.4.1.tgz#aa754b5c40c0a8aaa3967dff563629d2327f56f0"
 
 negotiator@0.6.1:
   version "0.6.1"

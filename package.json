@@ -1,6 +1,6 @@
 {
   "name": "nebula-css-react-starter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A starting point for React JS Project consuming Nebula-CSS",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "author": "Robert Smith",
   "license": "MIT",
   "dependencies": {
-    "nebula-css": "^2.4.0",
+    "nebula-css": "^2.4.2",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   },
